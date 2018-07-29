@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="banner_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ID">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="adsShow">no</string>
+
+    <string name="app_name">OnlineVideo</string>
+    <string name="sharemsg">Let me recommend you this application</string>
+    <string name="title">VIDEO</string>
+    <string name="Show_Video_title">Play Video</string>
+
+    <string name="playlist">Playlist</string>
+    <string name="channel">Channel</string>
+    <string name="aboutus">About Us</string>
+    <string name="moreapp">More App</string>
+    <string name="share">Share App</string>
+    <string name="exit">Exit</string>
+    <string name="logout_message">Are you sure you want to exit ?</string>
+
+    <string name="aboutDesc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry
+    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+    to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
+    typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
+    sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
+    including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable
+    content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
+    distribution of letters, as opposed to using , making it look like readable English.
+    Many desktop publishing packages and web page editors now use Lorem Ipsum as their
+    default model text, and a search for  will uncover many web sites still in their infancy. Various versions
+    have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    Api Key
+    <string name="api">AIzaSyCKCyYrVLEKR7VR4BFlrC5AhhzYQGRIet4</string>
+    <!--maxResults-->
+    <string name="maxResults">50</string>
+    <!--Home Page Channel ID-->
+    <string-array name="key">
+        <item>UCCjv5s3o3IuKPH0KycfyWHg</item>
+        <item>UC1NF71EwP41VdjAU1iXdLkw</item>
+        <item>UCjXfkj5iapKHJrhYfAF9ZGg</item>
+        <item>UCBqFKDipsnzvJdt6UT0lMIg</item>
+    </string-array>
+    <!--Channel Name-->
+    <string-array name="name">
+        <item>Android Firebase Tutorials</item>
+        <item>Narendra Modi</item>
+        <item>AlbertaGymnastics</item>
+        <item>Sandeep Maheshwari</item>
+    </string-array>
+
+
+    <!--https://www.youtube.com/channel/UC1NF71EwP41VdjAU1iXdLkw-->
+    <!--Channel Image-->
+    <string-array name="image">
+        <item>https://yt3.ggpht.com/-qNkH4_WzfXc/AAAAAAAAAAI/AAAAAAAAAAA/UEbYYiTXoLQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</item>
+        <item>https://yt3.ggpht.com/-zL2hGAaDwmU/AAAAAAAAAAI/AAAAAAAAAAA/q635-BPG5Zg/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</item>
+        <item>https://yt3.ggpht.com/-htMb2JdtcEg/AAAAAAAAAAI/AAAAAAAAAAA/RT1ZGIeBC6w/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</item>
+        <item>https://yt3.ggpht.com/-r4rK1SpZ7qo/AAAAAAAAAAI/AAAAAAAAAAA/q_S3CCjYEDE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</item>
+    </string-array>
+
+</resources>

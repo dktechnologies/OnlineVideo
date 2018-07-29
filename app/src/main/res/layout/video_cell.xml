@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/rl_img"
+            android:layout_centerVertical="true">
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:id="@+id/video_img"
+                />
+            <TextView
+                android:id="@+id/txtFirstWord"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:text="R"
+                android:visibility="gone"
+                android:textColor="@color/colorWhite"
+                android:textSize="20dp"
+                android:gravity="center"
+                />
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/progress"/>
+
+        </RelativeLayout>
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/rl_img"
+            android:text="Text"
+            android:maxLines="3"
+            android:id="@+id/txt_video_name"
+            android:layout_marginLeft="20dp"
+            android:textSize="16dp"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</RelativeLayout>
